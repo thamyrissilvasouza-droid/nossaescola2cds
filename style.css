@@ -14,7 +14,7 @@ header {
   width: 100%;
   padding: 20px;
   color: #ffffff;
-  background-color: #fabdf1;
+  background-color: #faccde;
 }
 
 .cabecalho-itens {
@@ -69,7 +69,7 @@ img.sociais {
 /* Estudantes */
 .estudante {
   padding: 24px 0;
-  background-color: #27702aee;
+  background-color: #9b0d0d;
 }
 
 .estudante_titulo {
@@ -114,7 +114,8 @@ img.sociais {
   padding: 24px 0;
   color: #ffffff;
   text-align: center;
-  background-image: linear-gradient(#40a2e3, #7fc2ef);
+  background-color: #faccde;
+  background-image: linear-gradient(#faccde, #ffd8f3);
 }
 
 .escola-título {
