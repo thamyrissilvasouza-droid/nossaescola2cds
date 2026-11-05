@@ -14,7 +14,7 @@ header {
   width: 100%;
   padding: 20px;
   color: #ffffff;
-  background-color: #E8C5E5;
+  background-color: #E7D3EB;
 }
 
 .cabecalho-itens {
@@ -115,7 +115,7 @@ img.sociais {
   color: #ffffff;
   text-align: center;
   background-color: #fcfafb;
-  background-image: linear-gradient(#E8C5E5, #E8C5E5);
+  background-image: linear-gradient(#E7D3EB, #E7D3EB);
 }
 
 .escola-título {
