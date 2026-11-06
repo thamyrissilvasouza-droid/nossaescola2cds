@@ -14,7 +14,7 @@ header {
   width: 100%;
   padding: 20px;
   color: #ffffff;
-  background-color: #F5C2E7;
+  background-color: #484748;
 }
 
 .cabecalho-itens {
@@ -69,7 +69,7 @@ img.sociais {
 /* Estudantes */
 .estudante {
   padding: 24px 0;
-  background-color:#484748 ;
+  background-color:#b68ab6 ;
 }
 
 .estudante_titulo {
